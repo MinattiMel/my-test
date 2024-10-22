@@ -5,4 +5,4 @@ export default defineConfig({
     outDir: 'public',
     emptyOutDir: true,
   }
-});
+})
